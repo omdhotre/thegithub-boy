@@ -1,0 +1,11 @@
+first disable the internet of your pc or laptop
+open the google chrome
+search any domain ex.github.com
+right click on the screen scroll down to inspect 
+click on console tab on the screen
+write on the page the following codes
+
+TO RUN THE GAME NONSTOP WITHOUT GAME OVER
+1.Runner.interances_.function () {}
+TO RUN THE DINO FAST TO COLLECT THE POINTS
+2. Runner.interances_.setSpeed (1000)
